@@ -1,2 +1,2 @@
-# Lenguaje-7-y-8
+# Lenguaje-7
 Actividades
